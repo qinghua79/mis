@@ -11,10 +11,13 @@
 
 5.前后分离的后台管理系统.
 
-![image](https://github.com/qinghua79/mis/raw/master/images/vim-screenshot.jpg)
+![image](https://github.com/qinghua79/mis/blob/master/login.PNG)
+
+
+![image](https://github.com/qinghua79/mis/blob/master/main.PNG)
          
 
-近期将完成如下
+本项目完成基本整合, 近期将完成如下
 
 1.Entity,DAO,Service,Controller继承基础功能完善.
 
