@@ -11,10 +11,10 @@
 
 5.前后分离的后台管理系统.
 
-![image](https://github.com/qinghua79/mis/raw/master/login.png)
+![image](https://github.com/qinghua79/mis/blob/master/login.PNG)
 
 
-![image](https://github.com/qinghua79/mis/raw/master/main.png)
+![image](https://github.com/qinghua79/mis/blob/master/main.PNG)
          
 
 本项目完成基本整合, 近期将完成如下
